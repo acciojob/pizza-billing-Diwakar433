@@ -47,7 +47,7 @@ public class Pizza {
             if(isVeg)
                 this.price += 70;
             else
-                this.price = 120;
+                this.price += 120;
         }
 
     }
